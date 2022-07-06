@@ -1,18 +1,17 @@
 ### Hello World 👋
-I am a cloud engineer from Indonesia
+I am a cloud consultant from Indonesia
 
 - 🔭 Working on multiple Cloud project using AWS and GCP
-- 🌱 Learning data analytic, Python
 <br>
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nasirnooruddin)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nasirnooruddin.medium.com/)
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23B94E48.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://nasirnooruddin.medium.com/)
-[<img align="left" alt="tiktok" src="https://img.shields.io/badge/tiktok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />](https://tiktok.com/@nasir.id)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nasirnooruddin19)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nasirajadeh)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nasir19noor)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nasir19noor.medium.com/)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23B94E48.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://nasir19noor.medium.com/)
+[<img align="left" alt="tiktok" src="https://img.shields.io/badge/tiktok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />](https://tiktok.com/@nasir19noor)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nasir19noor)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nasir19noor)
 
 
 <br>
