@@ -2,7 +2,7 @@
 I am a cloud consultant from Indonesia
 
 - 🔭 Working on multiple Cloud project using AWS and GCP
-- 🔭 Experience with Kubernetes and Dcoker
+- 🔭 Experience with Kubernetes and Docker
 - 🔭 Experience with Python and PHP
 <br>
 
