@@ -7,7 +7,7 @@ I am a cloud consultant from Indonesia
 <br>
 
 ## Connect with me
-[<img align="left" alt="whatsapp" src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://www.linkedin.com/in/nasir19noor)
+[<img align="left" alt="whatsapp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/6283807315770)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nasir19noor)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nasir19noor.medium.com/)
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23B94E48.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://nasir19noor.medium.com/)
