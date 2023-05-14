@@ -14,7 +14,7 @@ I am a cloud consultant from Indonesia
 [<img align="left" alt="tiktok" src="https://img.shields.io/badge/tiktok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />](https://tiktok.com/@nasir19noor)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nasir19noor)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nasir19noor)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://twitter.com/nasir19noor)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nasir19noor/)
 
 
 <br>
