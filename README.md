@@ -20,7 +20,7 @@ I am a cloud consultant from Indonesia
 <br>
 
 ## Expertise
-<img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="GCP" src="https://img.shields.io/badge/gcp-%23187FF0.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-%234e48b9.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%234e48b9.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
