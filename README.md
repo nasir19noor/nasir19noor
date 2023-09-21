@@ -25,7 +25,7 @@ I am a cloud consultant from Indonesia
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-%234e48b9.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%234e48b9.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Terraform-%234e48b9.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
-<img align="left" alt="Jenkins" src="https://img.shields.io/badge/Terraform-%234e48b9.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
+<img align="left" alt="Jenkins" src="https://img.shields.io/badge/Terraform-%fffe48b9.svg?&style=for-the-badge&logo=Jenkins&logoColor=white" />
 <br>
 <br>
 
