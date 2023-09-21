@@ -11,11 +11,8 @@ I am a cloud consultant from Indonesia
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nasir19noor.medium.com/)
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/youtube-%23B94E48.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCV3tja_sI4Q-arW-z4XXDmg)
 [<img align="left" alt="tiktok" src="https://img.shields.io/badge/tiktok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />](https://tiktok.com/@nasir19noor)
-<br>
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nasir19noor)
-<br>
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nasir19noor)
-<br>
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nasir19noor/)
 
 
@@ -28,6 +25,7 @@ I am a cloud consultant from Indonesia
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-%234e48b9.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%234e48b9.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Terraform-%234e48b9.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
+<img align="left" alt="Jenkins" src="https://img.shields.io/badge/Terraform-%234e48b9.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
 <br>
 <br>
 
