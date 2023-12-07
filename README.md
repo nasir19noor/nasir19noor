@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a cloud consultant from Indonesia
+I am a experienced Cloud Consultant and DevOps
 
 - 🔭 Working on multiple Cloud project (AWS and GCP)
 - 🔭 Experience with Microservice and DevOps (Docker, Kubernetes, Terraform, Jenkins, Github)
